@@ -3,11 +3,11 @@
 The URL Shortener App is a web application that allows users to shorten long URLs, generate QR codes for the shortened URLs, and manage them easily. Users can also share the shortened URLs and copy them to the clipboard for quick access.
 
 ### Features
-- **Shorten URLs: Quickly shorten long URLs into shorter, more manageable links.
-- **QR Code Generation: Generate QR codes for the shortened URLs for easy sharing and scanning.
-- **Copy to Clipboard: Easily copy the shortened URLs to the clipboard with a single click.
-- **Share URLs: Share the shortened URLs via different platforms.
-- **User-Friendly Interface: A clean and simple interface for a seamless user experience.
+- **Shorten URLs**: Quickly shorten long URLs into shorter, more manageable links.
+- **QR Code Generation**: Generate QR codes for the shortened URLs for easy sharing and scanning.
+- **Copy to Clipboard**: Easily copy the shortened URLs to the clipboard with a single click.
+- **Share URLs**: Share the shortened URLs via different platforms.
+- **User-Friendly Interface**: A clean and simple interface for a seamless user experience.
 
 ## Installation
 
@@ -15,8 +15,8 @@ To run the URL Shortener App locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/url-shortener-app.git
-    cd url-shortener-app
+    git clone https://github.com/badalchowdhary/tinyLink.git
+    cd tinyLink
     ```
 
 2. **Install dependencies**:
