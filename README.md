@@ -1,4 +1,4 @@
-#URL Shortener App
+# URL Shortener App
 ##Overview
 The URL Shortener App is a web application that allows users to shorten long URLs, generate QR codes for the shortened URLs, and manage them easily. Users can also share the shortened URLs and copy them to the clipboard for quick access.
 
