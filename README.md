@@ -1,49 +1,47 @@
 # URL Shortener App
-##Overview
+## Overview
 The URL Shortener App is a web application that allows users to shorten long URLs, generate QR codes for the shortened URLs, and manage them easily. Users can also share the shortened URLs and copy them to the clipboard for quick access.
 
-###Features
-Shorten URLs: Quickly shorten long URLs into shorter, more manageable links.
-QR Code Generation: Generate QR codes for the shortened URLs for easy sharing and scanning.
-Copy to Clipboard: Easily copy the shortened URLs to the clipboard with a single click.
-Share URLs: Share the shortened URLs via different platforms.
-User-Friendly Interface: A clean and simple interface for a seamless user experience.
+### Features
+- **Shorten URLs: Quickly shorten long URLs into shorter, more manageable links.
+- **QR Code Generation: Generate QR codes for the shortened URLs for easy sharing and scanning.
+- **Copy to Clipboard: Easily copy the shortened URLs to the clipboard with a single click.
+- **Share URLs: Share the shortened URLs via different platforms.
+- **User-Friendly Interface: A clean and simple interface for a seamless user experience.
 
-###Installation
+## Installation
+
 To run the URL Shortener App locally, follow these steps:
 
-Clone the repository:
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/yourusername/url-shortener-app.git
+    cd url-shortener-app
+    ```
 
-bash
-Copy code
-git clone https://github.com/yourusername/url-shortener-app.git
-cd url-shortener-app
-Install dependencies:
+2. **Install dependencies**:
+    ```bash
+    npm install
+    ```
 
-bash
-Copy code
-npm install
-Start the development server:
+3. **Start the development server**:
+    ```bash
+    npm start
+    ```
 
-bash
-Copy code
-npm start
-Open your browser and navigate to:
-
-arduino
-Copy code
-http://localhost:3000
-
-
-###Technologies Used
-Frontend: React, Tailwind CSS
-Backend: Node.js, Express.js
-Database: MongoDB (or any other database you are using)
-API: Axios for HTTP requests
-Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to update the documentation as needed.
+4. **Open your browser and navigate to**:
+    ```
+    http://localhost:[Your PORT]
+    ```
 
 
-###Contact
+### Technologies Used
+- **Frontend**: React, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **API**: Axios for HTTP requests
+
+
+### Contact
 For any questions or feedback, feel free to open an issue or contact me at badalchowdhary50@gmail.com.
 
