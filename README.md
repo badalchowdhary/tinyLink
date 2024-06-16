@@ -1,6 +1,6 @@
-# URL Shortener App
+# tinyLink
 ## Overview
-The URL Shortener App is a web application that allows users to shorten long URLs, generate QR codes for the shortened URLs, and manage them easily. Users can also share the shortened URLs and copy them to the clipboard for quick access.
+The tinyLink is a web application that allows users to shorten long URLs, generate QR codes for the shortened URLs, and manage them easily. Users can also share the shortened URLs and copy them to the clipboard for quick access.
 
 ### Features
 - **Shorten URLs**: Quickly shorten long URLs into shorter, more manageable links.
