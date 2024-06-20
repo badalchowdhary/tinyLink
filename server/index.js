@@ -4,6 +4,8 @@ const cors = require('cors');
 const { connectToMongoDB } = require('./connect');
 const urlRoute = require('./Routes/url');
 
+dotenv.config();
+
 const app = express();
 
 
@@ -16,7 +18,9 @@ catch(err){
     console.log(err);
 }
 
-app.use(cors());
+app.use(cors({
+    origin: 'https://tiny-link-client.vercel.app/'
+}));
 
 app.use(express.json());
 
