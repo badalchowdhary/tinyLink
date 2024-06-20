@@ -19,7 +19,7 @@ catch(err){
 }
 
 app.use(cors({
-    origin: 'https://tiny-link-client.vercel.app/'
+    origin: 'https://tiny-link-client.vercel.app'
 }));
 
 app.use(express.json());
