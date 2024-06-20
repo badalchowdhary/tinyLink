@@ -11,7 +11,7 @@ import 'aos/dist/aos.css';
 
 
 const Result = ({ shortID }) => {
-    const redirect_BASE_URL = 'https://tiny-link-server.vercel.app/url/'
+    const redirect_BASE_URL = 'tiny-link-server.vercel.app/url/'
     const [copied, setCopied] = useState(false);
     const shortURL = redirect_BASE_URL + shortID;
 
