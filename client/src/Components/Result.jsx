@@ -46,7 +46,7 @@ const Result = ({ shortID }) => {
     
   return (
     <div className='flex justify-center items-center lg:h-screen'>
-        <div className=' bg-gray-50 shadow-xl rounded-lg grid grid-cols-1' data-aos="fade-up">
+        <div className=' bg-gray-50 shadow-xl rounded-lg grid grid-cols-1'>
             <div className=' mx-4 my-2 p-4 lg:mx-10 lg:px-10 '>
                 <h2 className=' py-6 text-center text-2xl text-yellow-600 font-semibold'> Your short URL !</h2>
                 <div className='flex justify-center items-center'>
